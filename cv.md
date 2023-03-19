@@ -63,7 +63,7 @@ function duplicateEncode(word){
 ### English level
 
 A2
-<<<<<<< HEAD
+
 I studied English at secondary school for 11 years in an advanced class. But I was not a very good student:). 
 I took Dmitri Kolesnikov's grammar course in 2022. 
 Now I am improving my English by watching YouTube videos and films in English.
@@ -71,7 +71,7 @@ Now I am improving my English by watching YouTube videos and films in English.
 I was training English at school for 11 years in high level class, but i was not a good student:)
 I took a grammar course of Dmitry Kolesnikov at 2022.
 Look videos on Youtube in English to improve the level and lexicon.
->>>>>>> origin/gh-pages
+
 
 =======
 
